@@ -5,6 +5,6 @@ You can find in this repositories the scripts that were written for the virtual 
 3. Get-FirewallRules.ps1
 4. Get-PsHistory.ps1
 
-Other scripts that were mentioned in this episode can be found in the book's github repository https://aka.ms/mw-book-github:
-- Get-ExecutedCode: https://github.com/PacktPublishing/PowerShell-Automation-and-Scripting-for-Cybersecurity/blob/master/Chapter04/Get-ExecutedCode.ps1
-- Scan-RemoteUpdates: https://github.com/PacktPublishing/PowerShell-Automation-and-Scripting-for-Cybersecurity/blob/master/Chapter09/Scan-RemoteUpdates.ps1
+Other scripts that were mentioned in this episode can be found in the <a href="https://aka.ms/mw-book-github">book's github repository</a>:
+- <a href="https://raw.githubusercontent.com/PacktPublishing/PowerShell-Automation-and-Scripting-for-Cybersecurity/master/Chapter04/Get-ExecutedCode.ps1">Get-ExecutedCode</a> 
+- <a href="https://raw.githubusercontent.com/PacktPublishing/PowerShell-Automation-and-Scripting-for-Cybersecurity/master/Chapter09/Scan-RemoteUpdates.ps1">Scan-RemoteUpdates</a>
